@@ -1,12 +1,3 @@
-/*****************************************************************************
-# Author:           Devri Anderson 
-# Lab:              Assignment #3
-# Date:             January 28, 2022
-# Description:      This program will calculate a gym membership cost
-# Input:            char choice, char passType, int passLength, int trainSesh
-# Output:           double memTotal, double trainTotal, double totalCost
-# Sources:          Zybooks
-******************************************************************************/
 #include <iostream>
 #include <iomanip>
 #include <cmath>
