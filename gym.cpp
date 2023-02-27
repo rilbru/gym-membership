@@ -181,6 +181,7 @@ void calcCost(char passType, int passLength, int trainSesh, double totalCost, do
 
   totalCost = static_cast<double>(memTotal + trainTotal);
 
+  // display cost
   cout << "Your personal training cost for " << trainSesh << " sessions is $" << trainTotal << endl;
   cout << "Your total membership cost is $" << totalCost << endl;
 }
